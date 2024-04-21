@@ -1,9 +1,0 @@
-
-python:S1192("ODefine a constant instead of duplicating this literal "user_data.json" 3 times.(€¬®J$417329ae-ceaf-4442-8094-c18e001d463f
-‘python:S1192"MDefine a constant instead of duplicating this literal "Account Type" 4 times.(Ü×ŠìûÿÿÿÿJ$1f1d4787-2946-4f96-8bbe-da1302c51a42
-‘python:S1192:"SDefine a constant instead of duplicating this literal "An error occurred:" 3 times.(‘ ŸJ$c50a4b21-808d-405c-abf0-e7f1ab5b34de
-¥python:S101"iRename class "Account_Creator" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¦…ïkJ$599fd836-35fb-4f43-ae9b-55eeeae73e03
-£python:S100<"aRename method "registration_Account_UI_admin" to match the regular expression ^[a-z_][a-z0-9_]*$.(÷Şª´ÿÿÿÿÿJ$334e8f01-499a-4fa3-a69b-310266161a85
-python:S100p"RRename method "login_admin_UI" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ø×ë©J$5547df70-68a3-45a6-873d-8465ff80ce3f
-™python:S1542Œ"ZRename function "Accunt_Type_register" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÔÏş J$09fec47b-8ffa-4726-a1ba-f2a732b742ec
-›python:S1542Ÿ"WRename function "Accunt_Type_login" to match the regular expression ^[a-z_][a-z0-9_]*$.(­·‚øşÿÿÿÿJ$1442d5a7-1617-408d-a450-80f9a478a1a4
